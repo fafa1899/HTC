@@ -1,0 +1,151 @@
+universe = vanilla
+requirements = (Arch == "INTEL" || Arch == "X86_64") && (OpSys == "WINDOWS") && (Machine == "charlee-PC" || Machine == "DESKTOP-OVHV440") 
+executable = D:\Work\HTC\Work\bin\TaskProgram.exe
+should_transfer_files = YES
+when_to_transfer_output = on_exit
+notification = complete
+skip_filechecks = true
+
+arguments = 0
+initialdir = D:\Work\HTC\Work\0
+transfer_input_files = input.txt
+transfer_output_files = output.dat
+output = $(CLUSTER)_$(PROCESS).out
+log = $(CLUSTER)_$(PROCESS).log
+error = $(CLUSTER)_$(PROCESS).error
+queue
+
+arguments = 1
+initialdir = D:\Work\HTC\Work\1
+transfer_input_files = input.txt
+transfer_output_files = output.dat
+output = $(CLUSTER)_$(PROCESS).out
+log = $(CLUSTER)_$(PROCESS).log
+error = $(CLUSTER)_$(PROCESS).error
+queue
+
+arguments = 2
+initialdir = D:\Work\HTC\Work\2
+transfer_input_files = input.txt
+transfer_output_files = output.dat
+output = $(CLUSTER)_$(PROCESS).out
+log = $(CLUSTER)_$(PROCESS).log
+error = $(CLUSTER)_$(PROCESS).error
+queue
+
+arguments = 3
+initialdir = D:\Work\HTC\Work\3
+transfer_input_files = input.txt
+transfer_output_files = output.dat
+output = $(CLUSTER)_$(PROCESS).out
+log = $(CLUSTER)_$(PROCESS).log
+error = $(CLUSTER)_$(PROCESS).error
+queue
+
+arguments = 4
+initialdir = D:\Work\HTC\Work\4
+transfer_input_files = input.txt
+transfer_output_files = output.dat
+output = $(CLUSTER)_$(PROCESS).out
+log = $(CLUSTER)_$(PROCESS).log
+error = $(CLUSTER)_$(PROCESS).error
+queue
+
+arguments = 5
+initialdir = D:\Work\HTC\Work\5
+transfer_input_files = input.txt
+transfer_output_files = output.dat
+output = $(CLUSTER)_$(PROCESS).out
+log = $(CLUSTER)_$(PROCESS).log
+error = $(CLUSTER)_$(PROCESS).error
+queue
+
+arguments = 6
+initialdir = D:\Work\HTC\Work\6
+transfer_input_files = input.txt
+transfer_output_files = output.dat
+output = $(CLUSTER)_$(PROCESS).out
+log = $(CLUSTER)_$(PROCESS).log
+error = $(CLUSTER)_$(PROCESS).error
+queue
+
+arguments = 7
+initialdir = D:\Work\HTC\Work\7
+transfer_input_files = input.txt
+transfer_output_files = output.dat
+output = $(CLUSTER)_$(PROCESS).out
+log = $(CLUSTER)_$(PROCESS).log
+error = $(CLUSTER)_$(PROCESS).error
+queue
+
+arguments = 8
+initialdir = D:\Work\HTC\Work\8
+transfer_input_files = input.txt
+transfer_output_files = output.dat
+output = $(CLUSTER)_$(PROCESS).out
+log = $(CLUSTER)_$(PROCESS).log
+error = $(CLUSTER)_$(PROCESS).error
+queue
+
+arguments = 9
+initialdir = D:\Work\HTC\Work\9
+transfer_input_files = input.txt
+transfer_output_files = output.dat
+output = $(CLUSTER)_$(PROCESS).out
+log = $(CLUSTER)_$(PROCESS).log
+error = $(CLUSTER)_$(PROCESS).error
+queue
+
+arguments = 10
+initialdir = D:\Work\HTC\Work\10
+transfer_input_files = input.txt
+transfer_output_files = output.dat
+output = $(CLUSTER)_$(PROCESS).out
+log = $(CLUSTER)_$(PROCESS).log
+error = $(CLUSTER)_$(PROCESS).error
+queue
+
+arguments = 11
+initialdir = D:\Work\HTC\Work\11
+transfer_input_files = input.txt
+transfer_output_files = output.dat
+output = $(CLUSTER)_$(PROCESS).out
+log = $(CLUSTER)_$(PROCESS).log
+error = $(CLUSTER)_$(PROCESS).error
+queue
+
+arguments = 12
+initialdir = D:\Work\HTC\Work\12
+transfer_input_files = input.txt
+transfer_output_files = output.dat
+output = $(CLUSTER)_$(PROCESS).out
+log = $(CLUSTER)_$(PROCESS).log
+error = $(CLUSTER)_$(PROCESS).error
+queue
+
+arguments = 13
+initialdir = D:\Work\HTC\Work\13
+transfer_input_files = input.txt
+transfer_output_files = output.dat
+output = $(CLUSTER)_$(PROCESS).out
+log = $(CLUSTER)_$(PROCESS).log
+error = $(CLUSTER)_$(PROCESS).error
+queue
+
+arguments = 14
+initialdir = D:\Work\HTC\Work\14
+transfer_input_files = input.txt
+transfer_output_files = output.dat
+output = $(CLUSTER)_$(PROCESS).out
+log = $(CLUSTER)_$(PROCESS).log
+error = $(CLUSTER)_$(PROCESS).error
+queue
+
+arguments = 15
+initialdir = D:\Work\HTC\Work\15
+transfer_input_files = input.txt
+transfer_output_files = output.dat
+output = $(CLUSTER)_$(PROCESS).out
+log = $(CLUSTER)_$(PROCESS).log
+error = $(CLUSTER)_$(PROCESS).error
+queue
