@@ -39,6 +39,7 @@ HTCondor是威斯康星大学麦迪逊分校构建的分布式计算软件和相
 
 # 3. 参考
 [1]. [说说高通量计算(HTC)、高性能计算(HPC)和多任务计算(MTC)](http://www.360doc.com/content/12/0514/00/21412_210833098.shtml)
+
 [2]. [HTCondor官网](https://research.cs.wisc.edu/htcondor/)
 [3]. [Hadoop到底是干什么用的?](https://www.zhihu.com/question/333417513)
 [4]. [condor 使用详解](https://blog.csdn.net/nov_csdn/article/details/50442038)
